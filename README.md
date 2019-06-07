@@ -35,6 +35,8 @@ Since when sending keywords in WeChat in specific days, you will see awesome eff
 
 ## Contributor / 贡献者
 + [Gideon Weng](https://github.com/GideonWeng)
++ JiaJia
++ YouYou
 
 ## Contributing / 贡献
 Please Feel free to send a [pull request](https://github.com/GideonWeng/WeChat-Eomji-Rain-Keywords-Collection/pulls) to modify the list, add categories and arrange this repository. If you have any suggestions and problem please [new issue](https://github.com/peihaowang/AngryBirds-Processing/issues/new) or [email](cnzxwgy@gmail.com) me.
