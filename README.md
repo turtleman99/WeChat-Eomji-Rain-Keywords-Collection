@@ -3,8 +3,7 @@ Since when sending keywords in WeChat in specific days, you will see awesome eff
  当你在特定日期在微信中发出特定关键词当时候，会话窗口将出现emoji表情包雨。这个项目旨在收集这些关键词，欢迎为这个项目做贡献！  
  <!-- omit in toc -->
 ---
-## Table of Content / 目录
-- [Table of Content / 目录](#table-of-content--%E7%9B%AE%E5%BD%95)
+## Table of Content / 目录 <!-- omit in toc -->
 - [Daily Used / 日常可使用](#daily-used--%E6%97%A5%E5%B8%B8%E5%8F%AF%E4%BD%BF%E7%94%A8)
 - [Festival Only / 仅在节日可使用](#festival-only--%E4%BB%85%E5%9C%A8%E8%8A%82%E6%97%A5%E5%8F%AF%E4%BD%BF%E7%94%A8)
 - [Reference / 参考](#reference--%E5%8F%82%E8%80%83)
@@ -23,9 +22,10 @@ Since when sending keywords in WeChat in specific days, you will see awesome eff
 
 节日 (Festivel) | 关键词 | Keywords(Eng) | 效果 (effect) | 仍有效果？(effctive?)|
 ---------------|-------|-----------|--------------|-----|
+愚人节|我爱你|:x:|:x:|2019-4-1|
 儿童节| 儿童节快乐| :x: | :balloon:|2019-6-1|
 儿童节| 好孩子| :x: | :hibiscus:|2019-6-1|
-愚人节|我爱你|:x:|:x:|2019-4-1|
+端午节|端午节快乐，吃粽子|:x:|粽子雨|2019-6-7|
 
 ## Reference / 参考
 1. Cheatsheet for GitHub suported Emoji, please refer to this [website](https://www.webfx.com/tools/emoji-cheat-sheet/) or [repo](https://github.com/guodongxiaren/README/blob/master/emoji.md).  
