@@ -25,7 +25,7 @@ Since when sending keywords in WeChat in specific days, you will see awesome eff
 愚人节|我爱你|:x:|:x:|2019-4-1|
 儿童节| 儿童节快乐| :x: | :balloon:|2019-6-1|
 儿童节| 好孩子| :x: | :hibiscus:|2019-6-1|
-端午节|端午节快乐，吃粽子|:x:|粽子雨|2019-6-7|
+端午节|端午节快乐，吃粽子,端午安康|:x:|粽子雨|2019-6-7|
 
 ## Reference / 参考
 1. Cheatsheet for GitHub suported Emoji, please refer to this [website](https://www.webfx.com/tools/emoji-cheat-sheet/) or [repo](https://github.com/guodongxiaren/README/blob/master/emoji.md).  
@@ -39,4 +39,4 @@ Since when sending keywords in WeChat in specific days, you will see awesome eff
 + YouYou
 
 ## Contributing / 贡献
-Please Feel free to send a [pull request](https://github.com/GideonWeng/WeChat-Eomji-Rain-Keywords-Collection/pulls) to modify the list, add categories and arrange this repository. If you have any suggestions and problem please [new issue](https://github.com/peihaowang/AngryBirds-Processing/issues/new) or [email](cnzxwgy@gmail.com) me.
+Please Feel free to send a [pull request](https://github.com/GideonWeng/WeChat-Eomji-Rain-Keywords-Collection/pulls) to modify the list, add categories and arrange this repository. If you have any suggestions and problem please [new issue](https://github.com/GideonWeng/WeChat-Eomji-Rain-Keywords-Collection/issues) or [email](cnzxwgy@gmail.com) me.
